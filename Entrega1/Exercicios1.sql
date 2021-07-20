@@ -2,3 +2,5 @@
 
 2 - SELECT * FROM PSDB.EMPLOYEES WHERE EMP_NO = 10001 LIMIT 10;
 3 - select * from PSDB.EMPLOYEES WHERE EMP_NO = 10001 LIMIT 200;
+
+# nao esta funcionando de maneira certa
